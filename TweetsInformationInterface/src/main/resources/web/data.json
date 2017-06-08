@@ -1,0 +1,2056 @@
+{
+"nodes":[
+{
+"menciones": "131",
+"identificador": "1d3c1f74-faca-45db-94c0-62d52eab1a25",
+"punt_hijos": "2.310880184173584",
+"punt_propia": "1.9375460147857666",
+"points": "null",
+"label": "Entidad",
+"name": "democrat",
+"id": "2290"
+},
+{
+"menciones": "111",
+"identificador": "7d97ca80-a8c2-4681-89c3-b212b7e4bd73",
+"punt_hijos": "1.9976356029510498",
+"punt_propia": "1.999482274055481",
+"points": "null",
+"label": "Entidad",
+"name": "clinton",
+"id": "2293"
+},
+{
+"menciones": "21",
+"identificador": "9ff857e8-1942-42d1-a0f8-77f5a95a44a1",
+"punt_hijos": "-1.0",
+"punt_propia": "2.000013828277588",
+"points": "null",
+"label": "Entidad",
+"name": "bill",
+"id": "2295"
+},
+{
+"menciones": "54",
+"identificador": "ee36d4f5-7398-43bb-b689-654186ceb1f2",
+"punt_hijos": "-1.0",
+"punt_propia": "1.9976561069488525",
+"points": "null",
+"label": "Entidad",
+"name": "hillary",
+"id": "2294"
+},
+{
+"menciones": "1",
+"identificador": "4eb2bd83-aa57-43a1-b544-ea5f845aa27c",
+"punt_hijos": "-1.0",
+"punt_propia": "2.0",
+"points": "null",
+"label": "Elemento",
+"name": "job",
+"id": "4014"
+},
+{
+"menciones": "1",
+"identificador": "352e8c11-c4d4-4b02-a491-960cc8b2bd0a",
+"punt_hijos": "-1.0",
+"punt_propia": "2.0",
+"points": "null",
+"label": "Elemento",
+"name": "husband",
+"id": "5061"
+},
+{
+"menciones": "240",
+"identificador": "cb7e1399-e063-473a-903f-6f63663c7b1c",
+"punt_hijos": "2.0428590774536133",
+"punt_propia": "2.3245253562927246",
+"points": "null",
+"label": "Entidad",
+"name": "obama",
+"id": "2291"
+},
+{
+"menciones": "27",
+"identificador": "4a1fe409-2a0e-4754-a822-3509542950dd",
+"punt_hijos": "-1.0",
+"punt_propia": "2.042620897293091",
+"points": "null",
+"label": "Entidad",
+"name": "barack",
+"id": "2292"
+},
+{
+"menciones": "164",
+"identificador": "90539474-2839-4b8f-8aa9-ebd686e6c31b",
+"punt_hijos": "2.193337917327881",
+"punt_propia": "2.112095832824707",
+"points": "null",
+"label": "Entidad",
+"name": "republican",
+"id": "2296"
+},
+{
+"menciones": "3070",
+"identificador": "12b9c5a2-87ac-4390-88c6-345994758dfc",
+"punt_hijos": "1.952329397201538",
+"punt_propia": "2.1939473152160645",
+"points": "null",
+"label": "Entidad",
+"name": "trump",
+"id": "2306"
+},
+{
+"menciones": "647",
+"identificador": "5d5b9628-a025-420e-8f87-bec1cd0a8a84",
+"punt_hijos": "-1.0",
+"punt_propia": "1.9543535709381104",
+"points": "null",
+"label": "Entidad",
+"name": "donald",
+"id": "2307"
+},
+{
+"menciones": "3",
+"identificador": "ddd08818-c4f4-43f3-8e1b-642988f2d1c5",
+"punt_hijos": "-1.0",
+"punt_propia": "2.625",
+"points": "null",
+"label": "Elemento",
+"name": "job",
+"id": "3095"
+},
+{
+"menciones": "18",
+"identificador": "a7e295c2-d808-451a-803f-cc99c5a34c63",
+"punt_hijos": "-1.0",
+"punt_propia": "2.25",
+"points": "null",
+"label": "Elemento",
+"name": "wife",
+"id": "3235"
+},
+{
+"menciones": "1",
+"identificador": "e7162687-54ae-41ce-89fc-be446bbb0f30",
+"punt_hijos": "-1.0",
+"punt_propia": "2.0",
+"points": "null",
+"label": "Elemento",
+"name": "politics",
+"id": "737"
+},
+{
+"menciones": "53",
+"identificador": "a8b66b87-c9c9-4a23-934c-15f70758b16e",
+"punt_hijos": "2.0",
+"punt_propia": "2.0805861949920654",
+"points": "null",
+"label": "Entidad",
+"name": "bush",
+"id": "2303"
+},
+{
+"menciones": "4",
+"identificador": "75883d71-ffcf-4906-847b-f9dcb4e2c92b",
+"punt_hijos": "-1.0",
+"punt_propia": "2.0",
+"points": "null",
+"label": "Entidad",
+"name": "george",
+"id": "2305"
+},
+{
+"menciones": "3",
+"identificador": "2664d30f-c607-4525-aa7d-16b4cf3129d2",
+"punt_hijos": "-1.0",
+"punt_propia": "2.0",
+"points": "null",
+"label": "Entidad",
+"name": "jeb",
+"id": "2304"
+},
+{
+"menciones": "40",
+"identificador": "2d9afa13-c936-490e-a772-6440c9f41565",
+"punt_hijos": "2.0052490234375",
+"punt_propia": "2.0775346755981445",
+"points": "null",
+"label": "Entidad",
+"name": "spicer",
+"id": "2301"
+},
+{
+"menciones": "39",
+"identificador": "84d4e915-f3b4-47c9-898c-e1f82371e4f3",
+"punt_hijos": "-1.0",
+"punt_propia": "2.0052490234375",
+"points": "null",
+"label": "Entidad",
+"name": "sean",
+"id": "2302"
+},
+{
+"menciones": "186",
+"identificador": "2aec4087-b565-4dc5-a6d0-325e74b325be",
+"punt_hijos": "2.2132248878479004",
+"punt_propia": "2.0264735221862793",
+"points": "null",
+"label": "Entidad",
+"name": "sessions",
+"id": "2299"
+},
+{
+"menciones": "59",
+"identificador": "e24adfd0-d13a-430f-b15e-0983e3b09927",
+"punt_hijos": "-1.0",
+"punt_propia": "2.2132248878479004",
+"points": "null",
+"label": "Entidad",
+"name": "jeff",
+"id": "2300"
+},
+{
+"menciones": "22",
+"identificador": "9c1e6751-a394-4b37-b221-e3c40beb20f0",
+"punt_hijos": "1.9439871311187744",
+"punt_propia": "2.081584930419922",
+"points": "null",
+"label": "Entidad",
+"name": "tillerson",
+"id": "2297"
+},
+{
+"menciones": "18",
+"identificador": "8caa2661-cb1e-43a2-af0b-6731dde69942",
+"punt_hijos": "-1.0",
+"punt_propia": "1.9439871311187744",
+"points": "null",
+"label": "Entidad",
+"name": "rex",
+"id": "2298"
+},
+{
+"menciones": "28",
+"name": "party",
+"points": "2.0",
+"label": "Modificador",
+"id": "2455"
+},
+{
+"menciones": "16",
+"name": "mayors",
+"points": "2.0",
+"label": "Modificador",
+"id": "2869"
+},
+{
+"menciones": "14",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+},
+{
+"menciones": "8",
+"name": "liberal",
+"points": "2.0",
+"label": "Modificador",
+"id": "2711"
+},
+{
+"menciones": "5",
+"name": "argues",
+"points": "1.4000000953674316",
+"label": "Modificador",
+"id": "4044"
+},
+{
+"menciones": "6",
+"name": "president",
+"points": "2.0",
+"label": "Modificador",
+"id": "2322"
+},
+{
+"menciones": "6",
+"name": "who",
+"points": "2.0",
+"label": "Modificador",
+"id": "2336"
+},
+{
+"menciones": "1",
+"name": "guilty",
+"points": "1.4000000953674316",
+"label": "Modificador",
+"id": "8235"
+},
+{
+"menciones": "1",
+"name": "massachusetts",
+"points": "2.0",
+"label": "Modificador",
+"id": "8234"
+},
+{
+"menciones": "1",
+"name": "i",
+"points": "2.0",
+"label": "Modificador",
+"id": "2359"
+},
+{
+"menciones": "45",
+"name": "foundation",
+"points": "2.0",
+"label": "Modificador",
+"id": "2353"
+},
+{
+"menciones": "28",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+},
+{
+"menciones": "15",
+"name": "comey",
+"points": "2.0",
+"label": "Modificador",
+"id": "2326"
+},
+{
+"menciones": "9",
+"name": "fbi",
+"points": "2.0",
+"label": "Modificador",
+"id": "2325"
+},
+{
+"menciones": "6",
+"name": "director",
+"points": "2.0",
+"label": "Modificador",
+"id": "2616"
+},
+{
+"menciones": "1",
+"name": "cheese",
+"points": "2.0",
+"label": "Modificador",
+"id": "8213"
+},
+{
+"menciones": "1",
+"name": "women",
+"points": "2.0",
+"label": "Modificador",
+"id": "8242"
+},
+{
+"menciones": "1",
+"name": "panini",
+"points": "2.0",
+"label": "Modificador",
+"id": "8214"
+},
+{
+"menciones": "1",
+"name": "wakey",
+"points": "2.0",
+"label": "Modificador",
+"id": "8215"
+},
+{
+"menciones": "1",
+"name": "ham",
+"points": "2.0",
+"label": "Modificador",
+"id": "8216"
+},
+{
+"menciones": "10",
+"name": "fbi",
+"points": "2.0",
+"label": "Modificador",
+"id": "2325"
+},
+{
+"menciones": "9",
+"name": "fired",
+"points": "2.0",
+"label": "Modificador",
+"id": "3206"
+},
+{
+"menciones": "9",
+"name": "chief",
+"points": "2.0",
+"label": "Modificador",
+"id": "2921"
+},
+{
+"menciones": "1",
+"name": "speeches",
+"points": "2.0",
+"label": "Modificador",
+"id": "8149"
+},
+{
+"menciones": "7",
+"name": "e-mails",
+"points": "2.0",
+"label": "Modificador",
+"id": "780"
+},
+{
+"menciones": "6",
+"name": "russia",
+"points": "2.0",
+"label": "Modificador",
+"id": "2396"
+},
+{
+"menciones": "1",
+"name": "son-in-law",
+"points": "2.0",
+"label": "Modificador",
+"id": "8190"
+},
+{
+"menciones": "1",
+"name": "conservatives",
+"points": "2.0",
+"label": "Modificador",
+"id": "8156"
+},
+{
+"menciones": "1",
+"name": "okay",
+"points": "2.0",
+"label": "Modificador",
+"id": "8157"
+},
+{
+"menciones": "1",
+"name": "deal",
+"points": "2.0",
+"label": "Modificador",
+"id": "3935"
+},
+{
+"menciones": "1",
+"name": "who",
+"points": "2.0",
+"label": "Modificador",
+"id": "2336"
+},
+{
+"menciones": "1",
+"name": "shot",
+"points": "2.0",
+"label": "Modificador",
+"id": "8158"
+},
+{
+"menciones": "1",
+"name": "uranium",
+"points": "2.0",
+"label": "Modificador",
+"id": "8148"
+},
+{
+"menciones": "1",
+"name": "channel",
+"points": "2.0",
+"label": "Modificador",
+"id": "8191"
+},
+{
+"menciones": "122",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+},
+{
+"menciones": "25",
+"name": "administration",
+"points": "2.0",
+"label": "Modificador",
+"id": "3219"
+},
+{
+"menciones": "10",
+"name": "laughing",
+"points": "3.8000001907348633",
+"label": "Modificador",
+"id": "2357"
+},
+{
+"menciones": "19",
+"name": "comey",
+"points": "2.0",
+"label": "Modificador",
+"id": "2326"
+},
+{
+"menciones": "16",
+"name": "michelle",
+"points": "2.0",
+"label": "Modificador",
+"id": "2398"
+},
+{
+"menciones": "16",
+"name": "admin",
+"points": "2.0",
+"label": "Modificador",
+"id": "2399"
+},
+{
+"menciones": "16",
+"name": "that",
+"points": "2.0",
+"label": "Modificador",
+"id": "2388"
+},
+{
+"menciones": "16",
+"name": "i",
+"points": "2.0",
+"label": "Modificador",
+"id": "2359"
+},
+{
+"menciones": "15",
+"name": "president",
+"points": "2.0",
+"label": "Modificador",
+"id": "2322"
+},
+{
+"menciones": "9",
+"name": "won",
+"points": "3.0",
+"label": "Modificador",
+"id": "2652"
+},
+{
+"menciones": "14",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+},
+{
+"menciones": "8",
+"name": "dream",
+"points": "3.0",
+"label": "Modificador",
+"id": "2803"
+},
+{
+"menciones": "8",
+"name": "american",
+"points": "2.0",
+"label": "Modificador",
+"id": "2637"
+},
+{
+"menciones": "9",
+"name": "complaining",
+"points": "3.0",
+"label": "Modificador",
+"id": "5016"
+},
+{
+"menciones": "13",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+},
+{
+"menciones": "12",
+"name": "party",
+"points": "2.0",
+"label": "Modificador",
+"id": "2455"
+},
+{
+"menciones": "11",
+"name": "threatens",
+"points": "2.0",
+"label": "Modificador",
+"id": "2349"
+},
+{
+"menciones": "10",
+"name": "letter",
+"points": "2.0",
+"label": "Modificador",
+"id": "2427"
+},
+{
+"menciones": "10",
+"name": "congressman",
+"points": "2.0",
+"label": "Modificador",
+"id": "3732"
+},
+{
+"menciones": "10",
+"name": "senator",
+"points": "2.0",
+"label": "Modificador",
+"id": "3266"
+},
+{
+"menciones": "10",
+"name": "citizen",
+"points": "2.0",
+"label": "Modificador",
+"id": "3265"
+},
+{
+"menciones": "10",
+"name": "house",
+"points": "2.0",
+"label": "Modificador",
+"id": "2347"
+},
+{
+"menciones": "8",
+"name": "who",
+"points": "2.0",
+"label": "Modificador",
+"id": "2336"
+},
+{
+"menciones": "298",
+"name": "president",
+"points": "2.0",
+"label": "Modificador",
+"id": "2322"
+},
+{
+"menciones": "150",
+"name": "comey",
+"points": "2.0",
+"label": "Modificador",
+"id": "2326"
+},
+{
+"menciones": "132",
+"name": "watch",
+"points": "2.0",
+"label": "Modificador",
+"id": "2360"
+},
+{
+"menciones": "113",
+"name": "administration",
+"points": "2.0",
+"label": "Modificador",
+"id": "3219"
+},
+{
+"menciones": "112",
+"name": "what",
+"points": "2.0",
+"label": "Modificador",
+"id": "2511"
+},
+{
+"menciones": "81",
+"name": "supporters",
+"points": "2.0",
+"label": "Modificador",
+"id": "2433"
+},
+{
+"menciones": "81",
+"name": "i",
+"points": "2.0",
+"label": "Modificador",
+"id": "2359"
+},
+{
+"menciones": "78",
+"name": "ban",
+"points": "2.0",
+"label": "Modificador",
+"id": "2568"
+},
+{
+"menciones": "77",
+"name": "lawyer",
+"points": "2.0",
+"label": "Modificador",
+"id": "2611"
+},
+{
+"menciones": "72",
+"name": "photos",
+"points": "2.0",
+"label": "Modificador",
+"id": "3135"
+},
+{
+"menciones": "208",
+"name": "awkward",
+"points": "1.4000000953674316",
+"label": "Modificador",
+"id": "3137"
+},
+{
+"menciones": "156",
+"name": "memes",
+"points": "2.0",
+"label": "Modificador",
+"id": "3081"
+},
+{
+"menciones": "112",
+"name": "burns",
+"points": "1.4000000953674316",
+"label": "Modificador",
+"id": "3059"
+},
+{
+"menciones": "131",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+},
+{
+"menciones": "102",
+"name": "photos",
+"points": "2.0",
+"label": "Modificador",
+"id": "3134"
+},
+{
+"menciones": "56",
+"name": "cringe",
+"points": "1.4000000953674316",
+"label": "Modificador",
+"id": "3133"
+},
+{
+"menciones": "72",
+"name": "president",
+"points": "2.0",
+"label": "Modificador",
+"id": "2322"
+},
+{
+"menciones": "64",
+"name": "ivanka",
+"points": "2.0",
+"label": "Modificador",
+"id": "2583"
+},
+{
+"menciones": "64",
+"name": "what",
+"points": "2.0",
+"label": "Modificador",
+"id": "2511"
+},
+{
+"menciones": "33",
+"name": ">",
+"points": "2.0",
+"label": "Modificador",
+"id": "3422"
+},
+{
+"menciones": "12",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+},
+{
+"menciones": "7",
+"name": "melania",
+"points": "2.0",
+"label": "Modificador",
+"id": "2912"
+},
+{
+"menciones": "7",
+"name": "unseen",
+"points": "2.0",
+"label": "Modificador",
+"id": "3469"
+},
+{
+"menciones": "7",
+"name": "pictures",
+"points": "2.0",
+"label": "Modificador",
+"id": "3470"
+},
+{
+"menciones": "27",
+"name": "high",
+"points": "3.0",
+"label": "Modificador",
+"id": "2861"
+},
+{
+"menciones": "27",
+"name": "friend",
+"points": "3.0",
+"label": "Modificador",
+"id": "2337"
+},
+{
+"menciones": "40",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+},
+{
+"menciones": "27",
+"name": "tell",
+"points": "2.0",
+"label": "Modificador",
+"id": "2862"
+},
+{
+"menciones": "27",
+"name": "af",
+"points": "2.0",
+"label": "Modificador",
+"id": "2863"
+},
+{
+"menciones": "7",
+"name": "baby",
+"points": "2.0",
+"label": "Modificador",
+"id": "2851"
+},
+{
+"menciones": "7",
+"name": "omg",
+"points": "2.0",
+"label": "Modificador",
+"id": "2852"
+},
+{
+"menciones": "1",
+"name": "businesses",
+"points": "2.0",
+"label": "Modificador",
+"id": "8195"
+},
+{
+"menciones": "1",
+"name": "market",
+"points": "2.0",
+"label": "Modificador",
+"id": "8196"
+},
+{
+"menciones": "1",
+"name": "shepherds",
+"points": "2.0",
+"label": "Modificador",
+"id": "8197"
+},
+{
+"menciones": "1",
+"name": "pepfar",
+"points": "2.0",
+"label": "Modificador",
+"id": "8153"
+},
+{
+"menciones": "1",
+"name": "w.",
+"points": "2.0",
+"label": "Modificador",
+"id": "8154"
+},
+{
+"menciones": "1",
+"name": "program",
+"points": "2.0",
+"label": "Modificador",
+"id": "8155"
+},
+{
+"menciones": "18",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+},
+{
+"menciones": "9",
+"name": "mccarthy",
+"points": "2.0",
+"label": "Modificador",
+"id": "2688"
+},
+{
+"menciones": "9",
+"name": "melissa",
+"points": "2.0",
+"label": "Modificador",
+"id": "2692"
+},
+{
+"menciones": "5",
+"name": "people",
+"points": "2.0",
+"label": "Modificador",
+"id": "2383"
+},
+{
+"menciones": "1",
+"name": "earpiece",
+"points": "2.0",
+"label": "Modificador",
+"id": "8159"
+},
+{
+"menciones": "26",
+"name": "schumer",
+"points": "2.0",
+"label": "Modificador",
+"id": "2439"
+},
+{
+"menciones": "24",
+"name": "i",
+"points": "2.0",
+"label": "Modificador",
+"id": "2359"
+},
+{
+"menciones": "14",
+"name": "promise",
+"points": "3.0",
+"label": "Modificador",
+"id": "2474"
+},
+{
+"menciones": "20",
+"name": "tough",
+"points": "2.0",
+"label": "Modificador",
+"id": "2598"
+},
+{
+"menciones": "19",
+"name": "punk",
+"points": "2.0",
+"label": "Modificador",
+"id": "2438"
+},
+{
+"menciones": "16",
+"name": "attorney",
+"points": "2.0",
+"label": "Modificador",
+"id": "2719"
+},
+{
+"menciones": "16",
+"name": "general",
+"points": "2.0",
+"label": "Modificador",
+"id": "2718"
+},
+{
+"menciones": "14",
+"name": "✨",
+"points": "2.0",
+"label": "Modificador",
+"id": "2473"
+},
+{
+"menciones": "14",
+"name": "director",
+"points": "2.0",
+"label": "Modificador",
+"id": "2616"
+},
+{
+"menciones": "14",
+"name": "private",
+"points": "2.0",
+"label": "Modificador",
+"id": "2475"
+},
+{
+"menciones": "8",
+"name": "war",
+"points": "1.4000000953674316",
+"label": "Modificador",
+"id": "2950"
+},
+{
+"menciones": "9",
+"name": "ag",
+"points": "2.0",
+"label": "Modificador",
+"id": "3002"
+},
+{
+"menciones": "8",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+},
+{
+"menciones": "7",
+"name": "sentencing",
+"points": "2.0",
+"label": "Modificador",
+"id": "4847"
+},
+{
+"menciones": "6",
+"name": "worried",
+"points": "2.0",
+"label": "Modificador",
+"id": "2949"
+},
+{
+"menciones": "6",
+"name": "neuroscientist",
+"points": "2.0",
+"label": "Modificador",
+"id": "5459"
+},
+{
+"menciones": "6",
+"name": "deep",
+"points": "2.0",
+"label": "Modificador",
+"id": "2496"
+},
+{
+"menciones": "6",
+"name": "advocates",
+"points": "2.0",
+"label": "Modificador",
+"id": "2951"
+},
+{
+"menciones": "6",
+"name": "trouble",
+"points": "2.0",
+"label": "Modificador",
+"id": "2993"
+},
+{
+"menciones": "6",
+"name": "medical",
+"points": "2.0",
+"label": "Modificador",
+"id": "2952"
+},
+{
+"menciones": "5",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+},
+{
+"menciones": "6",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+}
+],
+"edges":[
+{
+"type": "familia",
+"repeticiones": "null",
+"target": "2293",
+"source": "2290"
+},
+{
+"type": "persona",
+"repeticiones": "null",
+"target": "2295",
+"source": "2293"
+},
+{
+"type": "persona",
+"repeticiones": "null",
+"target": "2294",
+"source": "2293"
+},
+{
+"type": "elemento",
+"repeticiones": "null",
+"target": "4014",
+"source": "2294"
+},
+{
+"type": "elemento",
+"repeticiones": "null",
+"target": "5061",
+"source": "2294"
+},
+{
+"type": "familia",
+"repeticiones": "null",
+"target": "2291",
+"source": "2290"
+},
+{
+"type": "persona",
+"repeticiones": "null",
+"target": "2292",
+"source": "2291"
+},
+{
+"type": "familia",
+"repeticiones": "null",
+"target": "2306",
+"source": "2296"
+},
+{
+"type": "persona",
+"repeticiones": "null",
+"target": "2307",
+"source": "2306"
+},
+{
+"type": "elemento",
+"repeticiones": "null",
+"target": "3095",
+"source": "2307"
+},
+{
+"type": "elemento",
+"repeticiones": "null",
+"target": "3235",
+"source": "2307"
+},
+{
+"type": "elemento",
+"repeticiones": "null",
+"target": "737",
+"source": "2307"
+},
+{
+"type": "familia",
+"repeticiones": "null",
+"target": "2303",
+"source": "2296"
+},
+{
+"type": "persona",
+"repeticiones": "null",
+"target": "2305",
+"source": "2303"
+},
+{
+"type": "persona",
+"repeticiones": "null",
+"target": "2304",
+"source": "2303"
+},
+{
+"type": "familia",
+"repeticiones": "null",
+"target": "2301",
+"source": "2296"
+},
+{
+"type": "persona",
+"repeticiones": "null",
+"target": "2302",
+"source": "2301"
+},
+{
+"type": "familia",
+"repeticiones": "null",
+"target": "2299",
+"source": "2296"
+},
+{
+"type": "persona",
+"repeticiones": "null",
+"target": "2300",
+"source": "2299"
+},
+{
+"type": "familia",
+"repeticiones": "null",
+"target": "2297",
+"source": "2296"
+},
+{
+"type": "persona",
+"repeticiones": "null",
+"target": "2298",
+"source": "2297"
+},
+{
+"type": "modificador",
+"menciones": "28",
+"target": "2290",
+"source": "2455",
+"name": "party"
+},
+{
+"type": "modificador",
+"menciones": "16",
+"target": "2290",
+"source": "2869",
+"name": "mayors"
+},
+{
+"type": "modificador",
+"menciones": "14",
+"target": "2290",
+"source": "2323",
+"name": "<link>"
+},
+{
+"type": "modificador",
+"menciones": "8",
+"target": "2290",
+"source": "2711",
+"name": "liberal"
+},
+{
+"type": "modificador",
+"menciones": "5",
+"target": "2290",
+"source": "4044",
+"name": "argues"
+},
+{
+"type": "modificador",
+"menciones": "6",
+"target": "2290",
+"source": "2322",
+"name": "president"
+},
+{
+"type": "modificador",
+"menciones": "6",
+"target": "2290",
+"source": "2336",
+"name": "who"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2290",
+"source": "8235",
+"name": "guilty"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2290",
+"source": "8234",
+"name": "massachusetts"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2290",
+"source": "2359",
+"name": "i"
+},
+{
+"type": "modificador",
+"menciones": "45",
+"target": "2293",
+"source": "2353",
+"name": "foundation"
+},
+{
+"type": "modificador",
+"menciones": "28",
+"target": "2293",
+"source": "2323",
+"name": "<link>"
+},
+{
+"type": "modificador",
+"menciones": "15",
+"target": "2293",
+"source": "2326",
+"name": "comey"
+},
+{
+"type": "modificador",
+"menciones": "9",
+"target": "2293",
+"source": "2325",
+"name": "fbi"
+},
+{
+"type": "modificador",
+"menciones": "6",
+"target": "2293",
+"source": "2616",
+"name": "director"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2293",
+"source": "8213",
+"name": "cheese"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2293",
+"source": "8242",
+"name": "women"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2293",
+"source": "8214",
+"name": "panini"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2293",
+"source": "8215",
+"name": "wakey"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2293",
+"source": "8216",
+"name": "ham"
+},
+{
+"type": "modificador",
+"menciones": "10",
+"target": "2295",
+"source": "2325",
+"name": "fbi"
+},
+{
+"type": "modificador",
+"menciones": "9",
+"target": "2295",
+"source": "3206",
+"name": "fired"
+},
+{
+"type": "modificador",
+"menciones": "9",
+"target": "2295",
+"source": "2921",
+"name": "chief"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2295",
+"source": "8149",
+"name": "speeches"
+},
+{
+"type": "modificador",
+"menciones": "7",
+"target": "2294",
+"source": "780",
+"name": "e-mails"
+},
+{
+"type": "modificador",
+"menciones": "6",
+"target": "2294",
+"source": "2396",
+"name": "russia"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2294",
+"source": "8190",
+"name": "son-in-law"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2294",
+"source": "8156",
+"name": "conservatives"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2294",
+"source": "8157",
+"name": "okay"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2294",
+"source": "3935",
+"name": "deal"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2294",
+"source": "2336",
+"name": "who"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2294",
+"source": "8158",
+"name": "shot"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2294",
+"source": "8148",
+"name": "uranium"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2294",
+"source": "8191",
+"name": "channel"
+},
+{
+"type": "modificador",
+"menciones": "122",
+"target": "2291",
+"source": "2323",
+"name": "<link>"
+},
+{
+"type": "modificador",
+"menciones": "25",
+"target": "2291",
+"source": "3219",
+"name": "administration"
+},
+{
+"type": "modificador",
+"menciones": "10",
+"target": "2291",
+"source": "2357",
+"name": "laughing"
+},
+{
+"type": "modificador",
+"menciones": "19",
+"target": "2291",
+"source": "2326",
+"name": "comey"
+},
+{
+"type": "modificador",
+"menciones": "16",
+"target": "2291",
+"source": "2398",
+"name": "michelle"
+},
+{
+"type": "modificador",
+"menciones": "16",
+"target": "2291",
+"source": "2399",
+"name": "admin"
+},
+{
+"type": "modificador",
+"menciones": "16",
+"target": "2291",
+"source": "2388",
+"name": "that"
+},
+{
+"type": "modificador",
+"menciones": "16",
+"target": "2291",
+"source": "2359",
+"name": "i"
+},
+{
+"type": "modificador",
+"menciones": "15",
+"target": "2291",
+"source": "2322",
+"name": "president"
+},
+{
+"type": "modificador",
+"menciones": "9",
+"target": "2291",
+"source": "2652",
+"name": "won"
+},
+{
+"type": "modificador",
+"menciones": "14",
+"target": "2292",
+"source": "2323",
+"name": "<link>"
+},
+{
+"type": "modificador",
+"menciones": "8",
+"target": "2292",
+"source": "2803",
+"name": "dream"
+},
+{
+"type": "modificador",
+"menciones": "8",
+"target": "2292",
+"source": "2637",
+"name": "american"
+},
+{
+"type": "modificador",
+"menciones": "9",
+"target": "2296",
+"source": "5016",
+"name": "complaining"
+},
+{
+"type": "modificador",
+"menciones": "13",
+"target": "2296",
+"source": "2323",
+"name": "<link>"
+},
+{
+"type": "modificador",
+"menciones": "12",
+"target": "2296",
+"source": "2455",
+"name": "party"
+},
+{
+"type": "modificador",
+"menciones": "11",
+"target": "2296",
+"source": "2349",
+"name": "threatens"
+},
+{
+"type": "modificador",
+"menciones": "10",
+"target": "2296",
+"source": "2427",
+"name": "letter"
+},
+{
+"type": "modificador",
+"menciones": "10",
+"target": "2296",
+"source": "3732",
+"name": "congressman"
+},
+{
+"type": "modificador",
+"menciones": "10",
+"target": "2296",
+"source": "3266",
+"name": "senator"
+},
+{
+"type": "modificador",
+"menciones": "10",
+"target": "2296",
+"source": "3265",
+"name": "citizen"
+},
+{
+"type": "modificador",
+"menciones": "10",
+"target": "2296",
+"source": "2347",
+"name": "house"
+},
+{
+"type": "modificador",
+"menciones": "8",
+"target": "2296",
+"source": "2336",
+"name": "who"
+},
+{
+"type": "modificador",
+"menciones": "298",
+"target": "2306",
+"source": "2322",
+"name": "president"
+},
+{
+"type": "modificador",
+"menciones": "150",
+"target": "2306",
+"source": "2326",
+"name": "comey"
+},
+{
+"type": "modificador",
+"menciones": "132",
+"target": "2306",
+"source": "2360",
+"name": "watch"
+},
+{
+"type": "modificador",
+"menciones": "113",
+"target": "2306",
+"source": "3219",
+"name": "administration"
+},
+{
+"type": "modificador",
+"menciones": "112",
+"target": "2306",
+"source": "2511",
+"name": "what"
+},
+{
+"type": "modificador",
+"menciones": "81",
+"target": "2306",
+"source": "2433",
+"name": "supporters"
+},
+{
+"type": "modificador",
+"menciones": "81",
+"target": "2306",
+"source": "2359",
+"name": "i"
+},
+{
+"type": "modificador",
+"menciones": "78",
+"target": "2306",
+"source": "2568",
+"name": "ban"
+},
+{
+"type": "modificador",
+"menciones": "77",
+"target": "2306",
+"source": "2611",
+"name": "lawyer"
+},
+{
+"type": "modificador",
+"menciones": "72",
+"target": "2306",
+"source": "3135",
+"name": "photos"
+},
+{
+"type": "modificador",
+"menciones": "208",
+"target": "2307",
+"source": "3137",
+"name": "awkward"
+},
+{
+"type": "modificador",
+"menciones": "156",
+"target": "2307",
+"source": "3081",
+"name": "memes"
+},
+{
+"type": "modificador",
+"menciones": "112",
+"target": "2307",
+"source": "3059",
+"name": "burns"
+},
+{
+"type": "modificador",
+"menciones": "131",
+"target": "2307",
+"source": "2323",
+"name": "<link>"
+},
+{
+"type": "modificador",
+"menciones": "102",
+"target": "2307",
+"source": "3134",
+"name": "photos"
+},
+{
+"type": "modificador",
+"menciones": "56",
+"target": "2307",
+"source": "3133",
+"name": "cringe"
+},
+{
+"type": "modificador",
+"menciones": "72",
+"target": "2307",
+"source": "2322",
+"name": "president"
+},
+{
+"type": "modificador",
+"menciones": "64",
+"target": "2307",
+"source": "2583",
+"name": "ivanka"
+},
+{
+"type": "modificador",
+"menciones": "64",
+"target": "2307",
+"source": "2511",
+"name": "what"
+},
+{
+"type": "modificador",
+"menciones": "33",
+"target": "2307",
+"source": "3422",
+"name": ">"
+},
+{
+"type": "modificador",
+"menciones": "12",
+"target": "3235",
+"source": "2323",
+"name": "<link>"
+},
+{
+"type": "modificador",
+"menciones": "7",
+"target": "3235",
+"source": "2912",
+"name": "melania"
+},
+{
+"type": "modificador",
+"menciones": "7",
+"target": "3235",
+"source": "3469",
+"name": "unseen"
+},
+{
+"type": "modificador",
+"menciones": "7",
+"target": "3235",
+"source": "3470",
+"name": "pictures"
+},
+{
+"type": "modificador",
+"menciones": "27",
+"target": "2303",
+"source": "2861",
+"name": "high"
+},
+{
+"type": "modificador",
+"menciones": "27",
+"target": "2303",
+"source": "2337",
+"name": "friend"
+},
+{
+"type": "modificador",
+"menciones": "40",
+"target": "2303",
+"source": "2323",
+"name": "<link>"
+},
+{
+"type": "modificador",
+"menciones": "27",
+"target": "2303",
+"source": "2862",
+"name": "tell"
+},
+{
+"type": "modificador",
+"menciones": "27",
+"target": "2303",
+"source": "2863",
+"name": "af"
+},
+{
+"type": "modificador",
+"menciones": "7",
+"target": "2303",
+"source": "2851",
+"name": "baby"
+},
+{
+"type": "modificador",
+"menciones": "7",
+"target": "2303",
+"source": "2852",
+"name": "omg"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2303",
+"source": "8195",
+"name": "businesses"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2303",
+"source": "8196",
+"name": "market"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2303",
+"source": "8197",
+"name": "shepherds"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2305",
+"source": "8153",
+"name": "pepfar"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2305",
+"source": "8154",
+"name": "w."
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2305",
+"source": "8155",
+"name": "program"
+},
+{
+"type": "modificador",
+"menciones": "18",
+"target": "2302",
+"source": "2323",
+"name": "<link>"
+},
+{
+"type": "modificador",
+"menciones": "9",
+"target": "2302",
+"source": "2688",
+"name": "mccarthy"
+},
+{
+"type": "modificador",
+"menciones": "9",
+"target": "2302",
+"source": "2692",
+"name": "melissa"
+},
+{
+"type": "modificador",
+"menciones": "5",
+"target": "2302",
+"source": "2383",
+"name": "people"
+},
+{
+"type": "modificador",
+"menciones": "1",
+"target": "2302",
+"source": "8159",
+"name": "earpiece"
+},
+{
+"type": "modificador",
+"menciones": "26",
+"target": "2299",
+"source": "2439",
+"name": "schumer"
+},
+{
+"type": "modificador",
+"menciones": "24",
+"target": "2299",
+"source": "2359",
+"name": "i"
+},
+{
+"type": "modificador",
+"menciones": "14",
+"target": "2299",
+"source": "2474",
+"name": "promise"
+},
+{
+"type": "modificador",
+"menciones": "20",
+"target": "2299",
+"source": "2598",
+"name": "tough"
+},
+{
+"type": "modificador",
+"menciones": "19",
+"target": "2299",
+"source": "2438",
+"name": "punk"
+},
+{
+"type": "modificador",
+"menciones": "16",
+"target": "2299",
+"source": "2719",
+"name": "attorney"
+},
+{
+"type": "modificador",
+"menciones": "16",
+"target": "2299",
+"source": "2718",
+"name": "general"
+},
+{
+"type": "modificador",
+"menciones": "14",
+"target": "2299",
+"source": "2473",
+"name": "✨"
+},
+{
+"type": "modificador",
+"menciones": "14",
+"target": "2299",
+"source": "2616",
+"name": "director"
+},
+{
+"type": "modificador",
+"menciones": "14",
+"target": "2299",
+"source": "2475",
+"name": "private"
+},
+{
+"type": "modificador",
+"menciones": "8",
+"target": "2300",
+"source": "2950",
+"name": "war"
+},
+{
+"type": "modificador",
+"menciones": "9",
+"target": "2300",
+"source": "3002",
+"name": "ag"
+},
+{
+"type": "modificador",
+"menciones": "8",
+"target": "2300",
+"source": "2323",
+"name": "<link>"
+},
+{
+"type": "modificador",
+"menciones": "7",
+"target": "2300",
+"source": "4847",
+"name": "sentencing"
+},
+{
+"type": "modificador",
+"menciones": "6",
+"target": "2300",
+"source": "2949",
+"name": "worried"
+},
+{
+"type": "modificador",
+"menciones": "6",
+"target": "2300",
+"source": "5459",
+"name": "neuroscientist"
+},
+{
+"type": "modificador",
+"menciones": "6",
+"target": "2300",
+"source": "2496",
+"name": "deep"
+},
+{
+"type": "modificador",
+"menciones": "6",
+"target": "2300",
+"source": "2951",
+"name": "advocates"
+},
+{
+"type": "modificador",
+"menciones": "6",
+"target": "2300",
+"source": "2993",
+"name": "trouble"
+},
+{
+"type": "modificador",
+"menciones": "6",
+"target": "2300",
+"source": "2952",
+"name": "medical"
+},
+{
+"type": "modificador",
+"menciones": "5",
+"target": "2297",
+"source": "2323",
+"name": "<link>"
+},
+{
+"type": "modificador",
+"menciones": "6",
+"target": "2298",
+"source": "2323",
+"name": "<link>"
+}
+]
+}
