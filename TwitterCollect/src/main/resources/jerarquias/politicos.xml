@@ -1,0 +1,66 @@
+<jerarquia name="Politicos">
+	<partido name="Republican">
+		<familia name="Trump">
+			<persona name="Donald" weak="true">
+				<tiene name="hair"/>
+				<tiene name="age"/>
+				<tiene name="bussines"/>
+				<tiene name="wife"/>
+			</persona>
+		</familia>
+		<familia name="Bush">
+			<persona name="George" weak="true">
+				<tiene name="hair"/>
+				<tiene name="job"/>
+				<tiene name="age"/>
+				<tiene name="wife"/>
+			</persona>
+			<persona name="Jeb" weak="true">
+				<tiene name="hair"/>
+				<tiene name="age"/>
+				<tiene name="wife"/>
+			</persona>
+		</familia>
+		<familia name="Sessions">
+			<persona name="Jeff" weak="true">
+				<tiene name="age"/>
+				<tiene name="politics"/>
+			</persona>
+		</familia>
+		<familia name="Spicer">
+			<persona name="Sean" weak="true">
+				<tiene name="age"/>
+				<tiene name="politics"/>
+			</persona>
+		</familia>
+		<familia name="Tillerson">
+			<persona name="Rex" weak="true">
+				<tiene name="age"/>
+				<tiene name="politics"/>
+			</persona>
+		</familia>
+	</partido>
+	<partido name="Democrat">
+		<familia name="Clinton">
+			<persona name="Hillary" weak="true">
+				<tiene name="hair"/>
+				<tiene name="age"/>
+				<tiene name="husband"/>
+			</persona>
+			<persona name="Bill" weak="true">
+				<tiene name="hair"/>
+				<tiene name="age"/>
+				<tiene name="lover"/>
+				<tiene name="girlfriend"/>
+				<tiene name="wife"/>
+			</persona>
+		</familia>
+		<familia name="Obama">
+			<persona name="Barack" weak="true">
+				<tiene name="hair"/>
+				<tiene name="age"/>
+				<tiene name="wife"/>
+			</persona>
+		</familia>
+	</partido>
+</jerarquia>

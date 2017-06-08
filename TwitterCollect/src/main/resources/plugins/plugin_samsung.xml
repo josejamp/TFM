@@ -1,0 +1,8 @@
+<plugin name="Moviles">
+	<relation name="utiliza">elemento</relation>
+	<relation name="tiene">elemento</relation>
+	<relation name="sinonimo">elemento</relation>
+	<relation name="empresa">entidad</relation>
+	<relation name="familia">entidad</relation>
+	<relation name="modelo">entidad</relation>
+</plugin>
