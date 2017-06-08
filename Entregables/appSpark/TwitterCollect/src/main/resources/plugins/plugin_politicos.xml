@@ -1,0 +1,6 @@
+<plugin name="Politicos">
+	<relation name="partido">entidad</relation>
+	<relation name="familia">entidad</relation>
+	<relation name="persona">entidad</relation>
+	<relation name="tiene">elemento</relation>
+</plugin>

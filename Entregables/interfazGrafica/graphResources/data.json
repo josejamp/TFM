@@ -1,0 +1,416 @@
+{
+"nodes":[
+{
+"menciones": "3070",
+"identificador": "12b9c5a2-87ac-4390-88c6-345994758dfc",
+"punt_hijos": "1.952329397201538",
+"punt_propia": "2.1939473152160645",
+"points": "null",
+"label": "Entidad",
+"name": "trump",
+"id": "2306"
+},
+{
+"menciones": "298",
+"name": "president",
+"points": "2.0",
+"label": "Modificador",
+"id": "2322"
+},
+{
+"menciones": "150",
+"name": "comey",
+"points": "2.0",
+"label": "Modificador",
+"id": "2326"
+},
+{
+"menciones": "132",
+"name": "watch",
+"points": "2.0",
+"label": "Modificador",
+"id": "2360"
+},
+{
+"menciones": "113",
+"name": "administration",
+"points": "2.0",
+"label": "Modificador",
+"id": "3219"
+},
+{
+"menciones": "112",
+"name": "what",
+"points": "2.0",
+"label": "Modificador",
+"id": "2511"
+},
+{
+"menciones": "81",
+"name": "supporters",
+"points": "2.0",
+"label": "Modificador",
+"id": "2433"
+},
+{
+"menciones": "81",
+"name": "i",
+"points": "2.0",
+"label": "Modificador",
+"id": "2359"
+},
+{
+"menciones": "78",
+"name": "ban",
+"points": "2.0",
+"label": "Modificador",
+"id": "2568"
+},
+{
+"menciones": "77",
+"name": "lawyer",
+"points": "2.0",
+"label": "Modificador",
+"id": "2611"
+},
+{
+"menciones": "72",
+"name": "photos",
+"points": "2.0",
+"label": "Modificador",
+"id": "3135"
+},
+{
+"menciones": "1",
+"identificador": "e7162687-54ae-41ce-89fc-be446bbb0f30",
+"punt_hijos": "-1.0",
+"punt_propia": "2.0",
+"points": "null",
+"label": "Elemento",
+"name": "politics",
+"id": "737"
+},
+{
+"menciones": "647",
+"identificador": "5d5b9628-a025-420e-8f87-bec1cd0a8a84",
+"punt_hijos": "-1.0",
+"punt_propia": "1.9543535709381104",
+"points": "null",
+"label": "Entidad",
+"name": "donald",
+"id": "2307"
+},
+{
+"menciones": "3",
+"identificador": "ddd08818-c4f4-43f3-8e1b-642988f2d1c5",
+"punt_hijos": "-1.0",
+"punt_propia": "2.625",
+"points": "null",
+"label": "Elemento",
+"name": "job",
+"id": "3095"
+},
+{
+"menciones": "18",
+"identificador": "a7e295c2-d808-451a-803f-cc99c5a34c63",
+"punt_hijos": "-1.0",
+"punt_propia": "2.25",
+"points": "null",
+"label": "Elemento",
+"name": "wife",
+"id": "3235"
+},
+{
+"menciones": "208",
+"name": "awkward",
+"points": "1.4000000953674316",
+"label": "Modificador",
+"id": "3137"
+},
+{
+"menciones": "156",
+"name": "memes",
+"points": "2.0",
+"label": "Modificador",
+"id": "3081"
+},
+{
+"menciones": "112",
+"name": "burns",
+"points": "1.4000000953674316",
+"label": "Modificador",
+"id": "3059"
+},
+{
+"menciones": "131",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+},
+{
+"menciones": "102",
+"name": "photos",
+"points": "2.0",
+"label": "Modificador",
+"id": "3134"
+},
+{
+"menciones": "56",
+"name": "cringe",
+"points": "1.4000000953674316",
+"label": "Modificador",
+"id": "3133"
+},
+{
+"menciones": "72",
+"name": "president",
+"points": "2.0",
+"label": "Modificador",
+"id": "2322"
+},
+{
+"menciones": "64",
+"name": "ivanka",
+"points": "2.0",
+"label": "Modificador",
+"id": "2583"
+},
+{
+"menciones": "64",
+"name": "what",
+"points": "2.0",
+"label": "Modificador",
+"id": "2511"
+},
+{
+"menciones": "33",
+"name": ">",
+"points": "2.0",
+"label": "Modificador",
+"id": "3422"
+},
+{
+"menciones": "12",
+"name": "<link>",
+"points": "2.0",
+"label": "Modificador",
+"id": "2323"
+},
+{
+"menciones": "7",
+"name": "melania",
+"points": "2.0",
+"label": "Modificador",
+"id": "2912"
+},
+{
+"menciones": "7",
+"name": "unseen",
+"points": "2.0",
+"label": "Modificador",
+"id": "3469"
+},
+{
+"menciones": "7",
+"name": "pictures",
+"points": "2.0",
+"label": "Modificador",
+"id": "3470"
+}
+],
+"edges":[
+{
+"type": "modificador",
+"menciones": "298",
+"target": "2306",
+"source": "2322",
+"name": "president"
+},
+{
+"type": "modificador",
+"menciones": "150",
+"target": "2306",
+"source": "2326",
+"name": "comey"
+},
+{
+"type": "modificador",
+"menciones": "132",
+"target": "2306",
+"source": "2360",
+"name": "watch"
+},
+{
+"type": "modificador",
+"menciones": "113",
+"target": "2306",
+"source": "3219",
+"name": "administration"
+},
+{
+"type": "modificador",
+"menciones": "112",
+"target": "2306",
+"source": "2511",
+"name": "what"
+},
+{
+"type": "modificador",
+"menciones": "81",
+"target": "2306",
+"source": "2433",
+"name": "supporters"
+},
+{
+"type": "modificador",
+"menciones": "81",
+"target": "2306",
+"source": "2359",
+"name": "i"
+},
+{
+"type": "modificador",
+"menciones": "78",
+"target": "2306",
+"source": "2568",
+"name": "ban"
+},
+{
+"type": "modificador",
+"menciones": "77",
+"target": "2306",
+"source": "2611",
+"name": "lawyer"
+},
+{
+"type": "modificador",
+"menciones": "72",
+"target": "2306",
+"source": "3135",
+"name": "photos"
+},
+{
+"type": "elemento",
+"repeticiones": "null",
+"target": "737",
+"source": "2307"
+},
+{
+"type": "persona",
+"repeticiones": "null",
+"target": "2307",
+"source": "2306"
+},
+{
+"type": "elemento",
+"repeticiones": "null",
+"target": "3095",
+"source": "2307"
+},
+{
+"type": "elemento",
+"repeticiones": "null",
+"target": "3235",
+"source": "2307"
+},
+{
+"type": "modificador",
+"menciones": "208",
+"target": "2307",
+"source": "3137",
+"name": "awkward"
+},
+{
+"type": "modificador",
+"menciones": "156",
+"target": "2307",
+"source": "3081",
+"name": "memes"
+},
+{
+"type": "modificador",
+"menciones": "112",
+"target": "2307",
+"source": "3059",
+"name": "burns"
+},
+{
+"type": "modificador",
+"menciones": "131",
+"target": "2307",
+"source": "2323",
+"name": "<link>"
+},
+{
+"type": "modificador",
+"menciones": "102",
+"target": "2307",
+"source": "3134",
+"name": "photos"
+},
+{
+"type": "modificador",
+"menciones": "56",
+"target": "2307",
+"source": "3133",
+"name": "cringe"
+},
+{
+"type": "modificador",
+"menciones": "72",
+"target": "2307",
+"source": "2322",
+"name": "president"
+},
+{
+"type": "modificador",
+"menciones": "64",
+"target": "2307",
+"source": "2583",
+"name": "ivanka"
+},
+{
+"type": "modificador",
+"menciones": "64",
+"target": "2307",
+"source": "2511",
+"name": "what"
+},
+{
+"type": "modificador",
+"menciones": "33",
+"target": "2307",
+"source": "3422",
+"name": ">"
+},
+{
+"type": "modificador",
+"menciones": "12",
+"target": "3235",
+"source": "2323",
+"name": "<link>"
+},
+{
+"type": "modificador",
+"menciones": "7",
+"target": "3235",
+"source": "2912",
+"name": "melania"
+},
+{
+"type": "modificador",
+"menciones": "7",
+"target": "3235",
+"source": "3469",
+"name": "unseen"
+},
+{
+"type": "modificador",
+"menciones": "7",
+"target": "3235",
+"source": "3470",
+"name": "pictures"
+}
+]
+}
